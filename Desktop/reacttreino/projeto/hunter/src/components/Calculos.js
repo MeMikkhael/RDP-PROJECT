@@ -2,7 +2,8 @@ import styles from './Calculos.module.css'
 function Calculos({nome, forca}){
     
     
-
+//AINDA EM PRODUÇÃO (DESCONECTADO DE OUTRAS PARTES), FUTURAMENTE É ONDE OS PONTOS E ATRIBUTOS VÃO
+//SER CALCULADOS
     
 /*
     function tipoDeNen(){

@@ -11,7 +11,7 @@ import Checkbox from "../forms/Checkbox"
 function Fichas({btnText}){
 
     return(
-            
+            //PAGINA DE FORMULARIO DAS FICHAS
             <form className={styles.form}> 
                 <div id="page_top_inputs">
                     <div className={textformat.input_format_1}> 
