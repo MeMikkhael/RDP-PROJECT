@@ -1,0 +1,16 @@
+.cadastro_container {
+ width: 100%;
+ height: 100%;
+ margin:0 auto;
+ padding: 3em;
+ background:url("../../imgs/back_cadastro.jpg");
+ background-size: 100%;
+}
+
+.cadastro_container h1{
+    margin-bottom: 0.5em;
+}
+
+.cadastro_container p{
+    color: black;
+}

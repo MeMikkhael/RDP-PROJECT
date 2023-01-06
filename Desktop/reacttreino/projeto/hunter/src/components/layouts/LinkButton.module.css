@@ -1,0 +1,20 @@
+.link_button{
+    color: white;
+    background-color: black; 
+    padding: 0.5em 1em;
+    text-decoration: none;
+    transition: 0.4s;
+    border-radius: 20px;
+}
+
+
+/*Muda a cor do botão e o formato da borda quando passo o mouse por cima do botão*/
+.link_button:hover{
+    color: red;
+    border-radius: 10px;
+}
+
+/* Transforma o tamanho do botão a partir do momento do clique, criando o efeito de afundar.*/
+.link_button:active{
+    transform: scale(0.9);
+}

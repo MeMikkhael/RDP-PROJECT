@@ -1,0 +1,57 @@
+.footer{
+    background-color: gray;
+    color: white;
+    padding: 3em;
+    text-align: center;
+    
+    
+}
+
+.social_list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    
+}
+.social_list li{
+    margin: 0 1em;
+}
+
+.social_list li:hover{
+    color:blue;
+}
+
+.social_list svg{
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.copy_right{
+    margin-top: 2em;
+}
+
+.copy_right span {
+    font-weight: bold;
+    color: white;
+}
+ /*
+
+ TENTATIVA FRACASSADA DE FAZER O QUE EU FIZ AÍ EM CIMA ASSISTINDO O VIDEO
+ LEMBRETE: SUBSTITUIR O WIDTH E O HEIGHT PELO MARGIN NESSES CASOS, PPRQUE O MARGIN APARENTEMENTE MEXE
+ NOS ARREDORES DO ITEM E NÃO NO TAMANHO ABSOLUTO QUE ELE OCUPA.
+.footer ul{
+    list-style-type: none;
+    
+}
+.footer ul li{
+    
+    height: 2em;
+    width: 2em;
+    
+}
+
+.footer ul li:hover{
+    color: blue;
+    
+}
+*/

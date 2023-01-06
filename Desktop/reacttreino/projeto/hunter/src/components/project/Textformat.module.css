@@ -1,0 +1,19 @@
+/*Dedicado a formatação visual especificamente na parte de posicionamento do Input.js*/
+
+.input_format_1{
+    position: absolute;
+    margin-top: -5em;
+    margin-left: 1em;
+}
+
+.input_format_2{
+    position: absolute;
+    margin-top: -5em;
+    margin-left: 32.36em;
+}
+
+.input_format_3{
+    position: absolute;
+    margin-top: 3.05em;
+    margin-left: 28.7em;
+}

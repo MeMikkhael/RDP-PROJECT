@@ -1,0 +1,15 @@
+.fraseContainer{
+    background-color: black;
+    position: absolute;
+    text-align: left;
+}
+
+.fraseContent{
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+    border: 10px;
+    position: relative;
+    
+    
+}

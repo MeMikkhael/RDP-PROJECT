@@ -1,0 +1,15 @@
+.form_control {
+    display: flex;
+    flex-direction: column;
+    padding: 3em;
+}
+
+
+.form_control input{
+    padding: .6em;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
+    border-radius: none;
+    width: 10em;
+}
+

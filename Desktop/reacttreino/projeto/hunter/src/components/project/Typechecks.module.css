@@ -1,0 +1,8 @@
+/*Dedicado a formatação visual especificamente na parte de posicionamento do Checkbox.js*/
+.check_att{
+    position: absolute;
+    margin-top: 51em;
+    margin-left: 22.240em;
+    flex-direction: column;
+
+}

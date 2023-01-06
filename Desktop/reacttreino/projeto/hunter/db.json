@@ -1,0 +1,29 @@
+{
+    "fichas": [],
+    "tipo":[
+        {
+            "id":1,
+            "name":"intensificador"
+        },
+        {
+            "id":2,
+            "name":"materializador"
+        },
+        {
+            "id":3,
+            "name":"transformador"
+        },
+        {
+            "id":4,
+            "name":"emissor"
+        },
+        {
+            "id":5,
+            "name":"manipulador"
+        },
+        {
+            "id":6,
+            "name":"especialista"
+        }
+    ]  
+}
