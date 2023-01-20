@@ -1,28 +1,20 @@
-.form_control {
+.check_type{
+    position:absolute;
+    width: 3em;
+    height: 21.868em;
     display: flex;
     flex-direction: column;
-    margin-bottom: 10em;
-    padding: 1em;  
-}
+    justify-content:space-between;
+    margin-top: 59.24em;
+    margin-left: 26.15em; 
+    
 
-.form_control label{
-    margin-bottom: .6em;
-    font-weight: bold;
 }
 
 .form_control input{
     
     width: 40px;
     height: 40px;
-    padding: .1em;
-    border-radius: 1;
-    border: none;
 }
 
-.form_control ul{
-    list-style: none;
-}
 
-.form_control ul li{
-    padding: .405em;
-}

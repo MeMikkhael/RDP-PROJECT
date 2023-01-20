@@ -1,0 +1,14 @@
+.att{
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 8em;
+    height: 61em;
+    margin-top: 26em;
+    margin-left: 0em;
+    
+    
+}
+

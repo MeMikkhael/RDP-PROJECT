@@ -10,7 +10,7 @@ const [liberado, setLiberado] = useState(false)
 
     return (
         <div className={styles.cadastro_container}>
-            <h1>Criar Ficha</h1>
+            
 
             <FormFichas btnText="Gerar Ficha"/>
         </div>

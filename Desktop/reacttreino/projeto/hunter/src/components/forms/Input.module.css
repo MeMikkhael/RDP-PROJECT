@@ -1,7 +1,6 @@
 .form_control {
-    display: flex;
-    flex-direction: column;
-    padding: 3em;
+    
+    padding: 2em;
 }
 
 
@@ -11,5 +10,13 @@
     border: 0;
     border-radius: none;
     width: 10em;
+}
+
+
+.att_input input{
+    width: 2em;
+    height: 2em;
+    background-color: rgba(0, 0, 0, 0);
+    border: 0;
 }
 

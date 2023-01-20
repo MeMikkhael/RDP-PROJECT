@@ -1,29 +1,47 @@
 {
-    "fichas": [],
-    "tipo":[
+    "jogadores": [],
+    "nentype":[
         {
             "id":1,
-            "name":"intensificador"
+            "name":"intensificador",
+            "primary_att_multiplier":["força", 4],
+            "secondary_att_multiplier":["constituição", 3],
+            "tertiary_att_multiplier":["destreza", 2]
         },
         {
             "id":2,
-            "name":"materializador"
+            "name":"materializador",
+            "primary_att_multiplier":["destreza", 5],
+            "secondary_att_multiplier":["inteligencia", 3],
+            "tertiary_att_multiplier":["constituição", 1]
         },
         {
             "id":3,
-            "name":"transformador"
+            "name":"transformador",
+            "primary_att_multiplier":["destreza", 4],
+            "secondary_att_multiplier":["força", 3],
+            "tertiary_att_multiplier":["inteligencia", 2]
         },
         {
             "id":4,
-            "name":"emissor"
+            "name":"emissor",
+            "primary_att_multiplier":["inteligencia", 5],
+            "secondary_att_multiplier":["destreza", 3],
+            "tertiary_att_multiplier":["sabedoria", 1]
         },
         {
             "id":5,
-            "name":"manipulador"
+            "name":"manipulador",
+            "primary_att_multiplier":["destreza", 4],
+            "secondary_att_multiplier":["inteligencia", 4],
+            "tertiary_att_multiplier":["carisma", 1]
         },
         {
             "id":6,
-            "name":"especialista"
+            "name":"especialista",
+            "primary_att_multiplier":["destreza", 1],
+            "secondary_att_multiplier":["inteligencia", 1],
+            "tertiary_att_multiplier":["carisma", 1]
         }
     ]  
 }
